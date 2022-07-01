@@ -69722,7 +69722,7 @@ var $async$pm=A.a6(function(a,b){if(a===1)return A.a7(b,r)
 while(true)switch(s){case 0:m=p.r
 l=m.cL(0,$.RV(),t.y)
 k=t.N
-j=A.aJ(["id",m.cL(0,$.kH(),k),"init","1"],k,k)
+j=A.aJ(["id",m.cL(0,$.kH(),k),"reload","1"],k,k)
 if(l)j.m(0,"multi","1")
 s=3
 return A.ag(A.rC(j),$async$pm)
